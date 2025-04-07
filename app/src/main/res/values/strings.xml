@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidCICD</string>
+    <string name="increment_counter">Increament Counter</string>
+    <string name="clicks">Clicks: %d</string>
 </resources>
